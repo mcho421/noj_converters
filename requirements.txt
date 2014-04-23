@@ -1,0 +1,4 @@
+pyparsing==2.0.2
+progressbar==2.3
+pyinstaller==2.1
+lxml==3.3.5
